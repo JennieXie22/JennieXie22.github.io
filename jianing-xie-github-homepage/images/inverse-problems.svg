@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title">
+  <title id="title">PDE inverse problem illustration</title>
+  <rect width="480" height="480" rx="24" fill="#f5f0f8"/>
+  <g fill="none" stroke="#705487" stroke-width="6">
+    <ellipse cx="240" cy="240" rx="165" ry="118"/>
+    <ellipse cx="240" cy="240" rx="120" ry="82"/>
+    <ellipse cx="240" cy="240" rx="72" ry="46"/>
+  </g>
+  <path d="M70 356 C132 298 152 174 240 191 C316 206 327 302 412 112" fill="none" stroke="#d08758" stroke-width="10"/>
+  <circle cx="240" cy="191" r="17" fill="#d08758"/>
+  <text x="240" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="35" font-style="italic" fill="#59416b">𝓕(u) = y</text>
+</svg>

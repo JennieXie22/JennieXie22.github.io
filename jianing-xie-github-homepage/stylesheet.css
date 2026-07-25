@@ -1,0 +1,210 @@
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: "Lato", "Noto Sans SC", Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+body {
+  margin: 0;
+  color: #222;
+  background: #fff;
+}
+
+strong {
+  font-family: "Lato", "Noto Sans SC", Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+h2 {
+  margin: 0;
+  font-weight: 400;
+  font-family: "Lato", "Noto Sans SC", Verdana, Helvetica, sans-serif;
+  font-size: 22px;
+}
+
+.page-table {
+  width: 100%;
+  max-width: 800px;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  margin: 0 auto;
+}
+
+.section-table {
+  width: 100%;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  margin: 0 auto;
+}
+
+.hero-copy {
+  padding: 2.5%;
+  width: 63%;
+  vertical-align: middle;
+}
+
+.hero-photo-cell {
+  padding: 2.5%;
+  width: 37%;
+  max-width: 37%;
+  vertical-align: middle;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 230px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.name {
+  padding-top: 20px;
+  margin: 0;
+  font-family: "Lato", "Noto Sans SC", Verdana, Helvetica, sans-serif;
+  font-size: 32px;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.chinese-name {
+  display: inline-block;
+  margin-left: 0.25em;
+  font-family: "Noto Sans SC", sans-serif;
+  font-size: 0.64em;
+  font-weight: 400;
+  color: #555;
+  vertical-align: 0.08em;
+}
+
+.links {
+  text-align: center;
+}
+
+.section-copy {
+  padding: 16px 20px 8px;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.entries {
+  margin-bottom: 4px;
+}
+
+.entry-row {
+  vertical-align: middle;
+}
+
+.entry-image-cell {
+  padding: 16px;
+  width: 20%;
+  vertical-align: middle;
+}
+
+.entry-image {
+  width: 160px;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 5px;
+  display: block;
+}
+
+.entry-copy {
+  padding: 8px 20px;
+  width: 80%;
+  vertical-align: middle;
+}
+
+.papertitle {
+  font-family: "Lato", "Noto Sans SC", Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.footer-table {
+  margin-top: 12px;
+}
+
+.footer-note {
+  padding: 0 20px 24px;
+  text-align: right;
+  font-size: 11px;
+  color: #777;
+}
+
+@media (max-width: 640px) {
+  .hero-table,
+  .hero-table tbody,
+  .hero-table tr,
+  .hero-copy,
+  .hero-photo-cell,
+  .entries,
+  .entries tbody,
+  .entry-row,
+  .entry-image-cell,
+  .entry-copy {
+    display: block;
+    width: auto;
+    max-width: none;
+  }
+
+  .hero-copy {
+    padding: 18px 22px 6px;
+  }
+
+  .hero-photo-cell {
+    padding: 10px 22px 18px;
+  }
+
+  .profile-photo {
+    max-width: 190px;
+  }
+
+  .name {
+    padding-top: 4px;
+    font-size: 29px;
+  }
+
+  .entry-image-cell {
+    padding: 12px 22px 4px;
+  }
+
+  .entry-image {
+    width: 100%;
+    max-width: 260px;
+    margin: 0 auto;
+    aspect-ratio: 16 / 9;
+  }
+
+  .entry-copy {
+    padding: 8px 22px 20px;
+  }
+
+  .section-copy {
+    padding: 16px 22px 6px;
+  }
+
+  .footer-note {
+    padding: 0 22px 24px;
+    text-align: left;
+  }
+}

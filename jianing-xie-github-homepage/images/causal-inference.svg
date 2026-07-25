@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title">
+  <title id="title">Causal inference illustration</title>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#315c86"/>
+    </marker>
+  </defs>
+  <rect width="480" height="480" rx="24" fill="#eef6fb"/>
+  <path d="M126 146 L225 215" stroke="#315c86" stroke-width="8" marker-end="url(#arrow)"/>
+  <path d="M350 146 L255 215" stroke="#315c86" stroke-width="8" marker-end="url(#arrow)"/>
+  <path d="M240 258 L240 350" stroke="#315c86" stroke-width="8" marker-end="url(#arrow)"/>
+  <circle cx="105" cy="125" r="58" fill="#9bc3db"/>
+  <circle cx="375" cy="125" r="58" fill="#f1bf8b"/>
+  <circle cx="240" cy="235" r="58" fill="#a7d7c5"/>
+  <circle cx="240" cy="385" r="58" fill="#c7b4dc"/>
+  <text x="105" y="137" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#17324b">X</text>
+  <text x="375" y="137" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#5e3514">Z</text>
+  <text x="240" y="247" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#164636">S</text>
+  <text x="240" y="397" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#443054">Y</text>
+</svg>
