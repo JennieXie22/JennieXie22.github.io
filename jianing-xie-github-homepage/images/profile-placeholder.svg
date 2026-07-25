@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
-  <title id="title">Profile photo placeholder</title>
-  <desc id="desc">A neutral circular portrait placeholder with initials JX.</desc>
-  <rect width="420" height="420" fill="#eef3f8"/>
-  <circle cx="210" cy="150" r="78" fill="#b8c9da"/>
-  <path d="M80 390c12-96 60-145 130-145s118 49 130 145" fill="#b8c9da"/>
-  <circle cx="210" cy="210" r="204" fill="none" stroke="#d5e0ea" stroke-width="12"/>
-  <text x="210" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#62778d">JX</text>
-</svg>
