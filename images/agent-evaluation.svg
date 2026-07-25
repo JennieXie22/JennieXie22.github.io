@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title">
+  <title id="title">Agent evaluation grid world illustration</title>
+  <rect width="480" height="480" rx="24" fill="#eef3f3"/>
+  <g stroke="#9eafb0" stroke-width="3">
+    <path d="M70 70V410M138 70V410M206 70V410M274 70V410M342 70V410M410 70V410"/>
+    <path d="M70 70H410M70 138H410M70 206H410M70 274H410M70 342H410M70 410H410"/>
+  </g>
+  <rect x="72" y="276" width="64" height="64" fill="#3f7280"/>
+  <circle cx="104" cy="308" r="17" fill="#fff"/>
+  <rect x="344" y="72" width="64" height="64" fill="#e8b45c"/>
+  <path d="M112 272 C142 218 222 270 246 208 S323 176 356 142" fill="none" stroke="#cf6a5c" stroke-width="10" stroke-dasharray="12 11"/>
+  <path d="M339 144 L360 137 L355 159" fill="none" stroke="#cf6a5c" stroke-width="9" stroke-linecap="round"/>
+</svg>

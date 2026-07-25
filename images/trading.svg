@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title">
+  <title id="title">Algorithmic trading illustration</title>
+  <rect width="480" height="480" rx="24" fill="#f7f2eb"/>
+  <path d="M58 382H430M70 66V396" stroke="#aa9d8e" stroke-width="4"/>
+  <path d="M78 330 L126 305 L165 326 L215 236 L252 256 L292 169 L333 209 L416 94" fill="none" stroke="#376c76" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#c47750" stroke-width="7">
+    <path d="M126 157V250"/><rect x="108" y="178" width="36" height="45" fill="#efc2a9"/>
+    <path d="M205 104V208"/><rect x="187" y="128" width="36" height="58" fill="#efc2a9"/>
+    <path d="M320 242V347"/><rect x="302" y="268" width="36" height="54" fill="#efc2a9"/>
+  </g>
+</svg>
